@@ -1,0 +1,40 @@
+{
+  "generatedAt": "2025-10-31T15:40:40.137Z",
+  "hemisphereDefault": "north",
+  "friday": {
+    "base": [],
+    "seasons": {
+      "winter": [],
+      "spring": [],
+      "summer": [],
+      "autumn": [
+        "/ai/friday/autumn/1f501dec-b158-417f-853c-61eef83d265d.png",
+        "/ai/friday/autumn/4b74aa4f-cec9-44e5-8081-1ae61e8f66e1.png",
+        "/ai/friday/autumn/664e49fc-2583-4e78-8977-bec8dd938527.png",
+        "/ai/friday/autumn/8e1ce60d-79e7-46d4-bf32-9d2bba668dec.png",
+        "/ai/friday/autumn/91c6c8d4-de77-4596-92e6-9bee7e16aab6.png",
+        "/ai/friday/autumn/a9a2a163-31bf-4693-9fd6-ae628c0d57ff.png",
+        "/ai/friday/autumn/b512b28e-6d13-4cf7-9990-8032df39d324.png",
+        "/ai/friday/autumn/d79c6d22-c0bc-480e-88ca-32d13c1c1f5b.png",
+        "/ai/friday/autumn/download1.jpeg"
+      ]
+    }
+  },
+  "notFriday": {
+    "base": [],
+    "seasons": {
+      "winter": [],
+      "spring": [],
+      "summer": [],
+      "autumn": [
+        "/ai/not-friday/autumn/005ec877-2aa7-4486-9d39-cd25f530cecb.png",
+        "/ai/not-friday/autumn/28433dcc-2f49-4983-ae40-121344fb8ea4.png",
+        "/ai/not-friday/autumn/51b58443-0c08-41c1-a518-b107ca476997.png",
+        "/ai/not-friday/autumn/c011e3e9-24d6-46ba-9ff4-8aa2185dc74a.png",
+        "/ai/not-friday/autumn/c1f7ce30-f42b-4b8f-8672-73be2f6f10b2.png",
+        "/ai/not-friday/autumn/de8497ae-1f2a-4c3e-a35a-e9f6e84b5cd0.png",
+        "/ai/not-friday/autumn/download.jpeg"
+      ]
+    }
+  }
+}
